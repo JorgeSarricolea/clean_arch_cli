@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import { generateProject } from "../lib/generator.js";
 import { program } from "commander";
+import { generateProject } from "../lib/generator/generator.js";
 
 program
   .name("clean-arch-cli")
