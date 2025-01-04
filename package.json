@@ -1,0 +1,23 @@
+{
+  "name": "clean-arch-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to generate a backend project using Clean Architecture",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "clean-arch-cli": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "clean-architecture",
+    "backend-generator"
+  ],
+  "author": "Jorge Sarricolea",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^13.0.0"
+  }
+}
