@@ -62,7 +62,7 @@ clean-arch-cli my-backend-project
 This will generate a folder with the specified project name containing the following structure:
 
 ```
-my-backend-project/
+src/
 ├── adapters/
 │   ├── api/
 │   ├── database/
