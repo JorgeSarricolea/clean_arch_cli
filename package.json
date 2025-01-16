@@ -18,6 +18,7 @@
   "author": "Jorge Sarricolea",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^5.4.1",
     "commander": "^13.0.0"
   }
 }
